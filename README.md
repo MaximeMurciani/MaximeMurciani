@@ -1,4 +1,4 @@
-- 👋 Bonjour, je suis @MaximeMurciani
+- 👋 Bonjour !
 - 👀 Je suis à la recherche d'une entreprise pour de l'alternance.
 - 🌱 Je suis en train d'apprendre l'HTML, CSS et Javascript.
 - 📫 Vous pouvez me contacter via mail : pvmciani@hotmail.fr
